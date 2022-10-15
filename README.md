@@ -10,4 +10,8 @@
 
 4. **03-Introduction to computer-vision with tensorflow** : This notebooks contains introduction to Convolutional neural network and computer vision by binary and multiclass classification using Tensorflow.
 
-5. **04-transfer learning in tensorflow ( feature extraction part 1 )** : In this notebook feautre extraction technique of transfer learning is explained by experimenting like a :chef..
+5. **04-transfer learning in tensorflow ( feature extraction part 1 )** : In this notebook feautre extraction technique of transfer learning is explained by experimenting like a 👨‍🍳 on 10% of food101 dataset..
+
+6. **05-transfer learning in tensorflow ( part 2 : fine tunning )** : In this notebook fine tunning technique of transfer learning is explained by experimenting like a 👨‍🍳..
+
+7. **06-Transfer learning with tensorflow ( part 3 : Scale up )** : In this notebook fine tunning technique of transfer learning is used on 100% food1010 data.
